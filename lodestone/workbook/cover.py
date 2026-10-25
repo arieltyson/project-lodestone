@@ -10,6 +10,8 @@ TABS = (
     ("Market", "yfinance snapshot: prices, shares, balance sheet, TTM metrics"),
     ("MtMilligan … Xavantina", "One life-of-mine NAV model per asset"),
     ("Corporate_NAV", "NAV roll-up, NAV per share, P/NAV and 2027–28E financial summary"),
+    ("Comps", "Peer trading multiples (written by scripts/build_comps.py)"),
+    ("Precedents", "Copper and gold M&A precedents: premiums, P/NAV, value per reserve ounce"),
     ("Sources", "Every filing behind the inputs, with verification status"),
 )
 

@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from lodestone.assumptions import Assumptions  # noqa: E402
-from lodestone.workbook import cover, nav  # noqa: E402
+from lodestone.workbook import cover, nav, precedents  # noqa: E402
 from lodestone.workbook.context import ModelContext  # noqa: E402
 
 OUTPUT = ROOT / "model" / "lodestone_model.xlsx"
@@ -26,6 +26,7 @@ def build(output: Path = OUTPUT) -> Path:
     ctx = ModelContext(wb=Workbook(), a=Assumptions())
     cover.build_cover(ctx)
     nav.build(ctx)
+    precedents.build(ctx)
     cover.build_sources(ctx)
     output.parent.mkdir(parents=True, exist_ok=True)
     ctx.wb.save(output)

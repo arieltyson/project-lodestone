@@ -1,0 +1,10 @@
+announced,acquirer,target,primary_metal,consideration,equity_value_usd_m,premium_spot,p_nav,target_reserves_moz_aueq,source_url,status
+2025-11-03,Coeur Mining,New Gold,gold-copper,All-stock,7000,0.16,,,https://www.coeur.com/investors/news,"premium and value as reported in announcement; verify"
+2025-05-27,Harmony Gold,MAC Copper,copper,All-cash,1030,0.31,1.26,,https://insight.factset.com/metals-mining-2025-ma-and-equity-capital-markets-insights,"P/NAV per FactSet; premium as reported; verify"
+2025-02-23,Equinox Gold,Calibre Mining,gold,All-stock,1800,0.31,,,https://www.equinoxgold.com/news,"premium as reported (20-day VWAP basis); verify"
+2024-12-02,Northern Star Resources,De Grey Mining,gold,All-stock,3300,0.37,,6.0,https://www.nsrltd.com/investor-and-media/asx-announcements,"premium as reported; reserves = Hemi PFS/DFS; verify"
+2024-08-12,Gold Fields,Osisko Mining,gold,All-cash,1570,0.55,,3.5,https://www.goldfields.com/press-releases.php,"premium as reported; reserves = Windfall FS; verify"
+2024-07-29,BHP / Lundin Mining,Filo Corp,copper-gold,Cash and stock,3250,0.32,,,https://www.lundinmining.com/news,"premium to 30-day VWAP as reported; no reserves at announcement; verify"
+2023-05-14,Newmont,Newcrest Mining,gold-copper,All-stock,19200,0.30,,,https://www.newmont.com/investors/news-release,"premium to undisturbed price as reported; verify"
+2023-04-13,Hudbay Minerals,Copper Mountain Mining,copper,All-stock,439,0.23,,,https://hudbayminerals.com/investors/news,"premium as reported; verify"
+2021-12-20,Lundin Mining,Josemaria Resources,copper-gold,Cash and stock,485,0.39,,,https://www.lundinmining.com/news,"premium as reported; verify"
