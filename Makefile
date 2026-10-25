@@ -9,6 +9,8 @@ model:
 	$(PY) scripts/build_model.py
 	$(PY) scripts/build_comps.py
 	$(PY) scripts/recalc.py model/lodestone_model.xlsx
+	$(PY) scripts/run_scenarios.py
+	$(PY) scripts/recalc.py model/lodestone_model.xlsx
 
 test:
 	$(PY) -m pytest -q

@@ -12,6 +12,12 @@ TABS = (
     ("Corporate_NAV", "NAV roll-up, NAV per share, P/NAV and 2027–28E financial summary"),
     ("Comps", "Peer trading multiples (written by scripts/build_comps.py)"),
     ("Precedents", "Copper and gold M&A precedents: premiums, P/NAV, value per reserve ounce"),
+    ("Synergies", "US$155M run-rate synergy case, phase-in and NPV"),
+    ("Merger", "Offer, exchange ratio, funding, ownership, accretion/dilution to EPS, CFPS and NAVPS"),
+    ("Contribution", "Contribution analysis versus pro forma ownership"),
+    ("Scenarios", "Outputs under each price case (filled by scripts/run_scenarios.py)"),
+    ("Sensitivity", "Premium vs copper price; synergies vs consideration mix"),
+    ("Football_Field", "Ero valuation ranges by method against the offer price"),
     ("Sources", "Every filing behind the inputs, with verification status"),
 )
 

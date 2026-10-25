@@ -92,6 +92,7 @@ def build_inputs(ctx: ModelContext) -> None:
     ws.freeze_panes = "C4"
 
     ctx.refs["fx_spot"] = s.absref(INPUTS, 3, ROW_FX_SPOT)
+    s.define(ctx.wb, "FX_SPOT", INPUTS, 3, ROW_FX_SPOT)
     ctx.refs["cu_case"] = s.absref(INPUTS, 3, ROW_CU_CASE)
     ctx.refs["au_case"] = s.absref(INPUTS, 3, ROW_AU_CASE)
     ctx.refs["cu_custom"] = s.absref(INPUTS, 3, ROW_CU_CUSTOM)
