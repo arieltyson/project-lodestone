@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+.streamlit/secrets.toml
+
+# Excel / Office temp and lock files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+.~lock.*#
+
+# Build scratch
+build/
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node (deck build)
+node_modules/
