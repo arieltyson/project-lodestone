@@ -116,6 +116,9 @@ MARKET_FIELDS = (
     ("eps_ttm_fin", "EPS TTM (US$)", s.USD_2),
     ("week52_low", "52w low (C$)", s.USD_2),
     ("week52_high", "52w high (C$)", s.USD_2),
+    ("target_low", "Target low (C$)", s.USD_2),
+    ("target_mean", "Target mean (C$)", s.USD_2),
+    ("target_high", "Target high (C$)", s.USD_2),
 )
 
 

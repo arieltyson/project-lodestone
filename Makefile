@@ -7,6 +7,7 @@ data:
 
 model:
 	$(PY) scripts/build_model.py
+	$(PY) scripts/build_comps.py
 	$(PY) scripts/recalc.py model/lodestone_model.xlsx
 
 test:
