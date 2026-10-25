@@ -20,3 +20,9 @@ deck:
 	$(PY) scripts/export_outputs.py
 	cd deck && npm install --silent && node build_deck.js
 	cd deck && soffice --headless --convert-to pdf pitch_book.pptx
+
+.PHONY: site all
+site:
+	$(PY) scripts/build_site.py
+
+all: model deck site test
