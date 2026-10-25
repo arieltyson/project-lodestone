@@ -1,0 +1,14 @@
+key,value,unit,note
+offer_premium,0.30,% of unaffected price,In line with the 30–31% precedent median
+consideration_case,2,1 = all-stock / 2 = cash-and-stock,Toggle
+cash_pct,0.25,% of offer in cash,Applies when consideration_case = 2
+min_cash_usd_m,250,US$M,Minimum pro forma cash balance before drawing new debt
+new_debt_rate,0.060,%,Cost of acquisition debt (term loan / notes)
+cash_yield,0.035,%,Interest income forgone on cash used
+transaction_costs_usd_m,60,US$M,"Advisory, legal and financing fees"
+deal_tax_rate,0.27,%,Tax rate applied to synergies and financing effects
+synergy_phase_in_y1,0.50,% of run-rate,2027E
+synergy_phase_in_y2,1.00,% of run-rate,2028E onward
+integration_cost_multiple,1.0,x run-rate,One-off cost to achieve (excluded from EPS)
+synergy_npv_years,10,years,Years of synergies capitalised in pro forma NAV
+synergy_discount_rate,0.065,%,Blended copper-gold rate
