@@ -1,0 +1,7 @@
+asset,display_name,company,country,primary_metal,ownership,reserve_mt,depleted_mt,cu_grade_pct,au_gpt,cu_recovery,au_recovery,cu_payable,au_payable,throughput_mtpa,expansion_mtpa,expansion_year,start_year,opex_usd_t,tcrc_usd_lb,sustaining_usd_m,growth_capex_usd_m,growth_start,growth_years,closure_usd_m,nsr_royalty,tax_rate,stream_au_pct,stream_au_price,stream_cu_pct,stream_cu_spot_pct,source_ids
+MtMilligan,Mount Milligan,CG,Canada (BC),gold-copper,1.0,470.332,21.5,0.0016,0.28,0.80,0.64,0.965,0.97,21.5,23.65,2029,2027,13.5,0.45,90,186,2027,3,120,0.0,0.32,0.35,435,0.1875,0.15,CG-MRMR-2025;CG-MTM-PFS-2025;CG-Q2-2026;CG-RGLD-STREAM
+Oksut,Öksüt,CG,Türkiye,gold,1.0,15.355,5.0,0.0,1.02,0.0,0.78,0.0,0.999,4.5,4.5,2027,2027,36.0,0.0,20,0,2027,1,40,0.08,0.25,0.0,0,0.0,0.0,CG-MRMR-2025;CG-Q2-2026
+Goldfield,Goldfield,CG,US (Nevada),gold,1.0,33.348,0.0,0.0,0.66,0.0,0.72,0.0,0.999,4.5,4.5,2029,2029,19.0,0.0,15,260,2027,2,30,0.025,0.25,0.0,0,0.0,0.0,CG-MRMR-2025
+Caraiba,Caraíba,ERO,Brazil (Bahia),copper,1.0,73.058,3.9,0.00895,0.0,0.91,0.0,0.965,0.0,4.2,4.2,2027,2027,37.0,0.35,55,60,2027,1,50,0.02,0.1525,0.0,0,0.0,0.0,ERO-CARAIBA-OPS;ERO-MDA-2025Q4;ERO-AIF-2025
+Tucuma,Tucumã,ERO,Brazil (Pará),copper,1.0,43.052,6.6,0.0083,0.0,0.90,0.0,0.965,0.0,4.0,4.4,2027,2027,28.0,0.35,25,0,2027,1,40,0.02,0.1525,0.0,0,0.0,0.0,ERO-TUCUMA-TR;ERO-MDA-2025Q4;ERO-Q2-2026
+Xavantina,Xavantina,ERO,Brazil (Mato Grosso),gold,0.976,1.10,0.18,0.0,6.8,0.0,0.92,0.0,0.999,0.20,0.20,2027,2027,270.0,0.0,40,0,2027,1,15,0.015,0.34,0.0,0,0.0,0.0,ERO-XAV-2025;ERO-MDA-2025Q4;ERO-Q2-2026

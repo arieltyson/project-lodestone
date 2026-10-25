@@ -1,0 +1,21 @@
+asset,field,status,note
+MtMilligan,reserve_mt|au_gpt,verified,Year-end 2025 P&P 470.3 Mt @ 0.28 g/t Au (CG-MRMR-2025)
+MtMilligan,cu_grade_pct,estimate,Copper grade not captured from the MRMR table; 0.16% Cu calibrated to 50–60 Mlb/yr 2026 guidance
+MtMilligan,expansion_mtpa|expansion_year|growth_capex_usd_m,verified,PFS: ~10% throughput increase in 2029 and US$186M growth capital
+MtMilligan,recoveries|opex_usd_t|sustaining_usd_m,calibrated,Set so 2027 AISC lands in the US$1.2–1.3k/oz guidance range
+MtMilligan,stream_*,verified,Royal Gold stream: 35% of gold at US$435/oz; 18.75% of copper at 15% of spot
+MtMilligan,depleted_mt,estimate,2026 ore processed (~59 ktpd)
+Oksut,reserve_mt|au_gpt,verified,Year-end 2025 P&P 15.4 Mt @ 1.02 g/t Au
+Oksut,nsr_royalty|opex_usd_t,calibrated,"Set so AISC lands in the US$1,850–1,950/oz 2026 guidance range (includes state royalty)"
+Goldfield,reserve_mt|au_gpt,verified,Year-end 2025 P&P 33.3 Mt @ 0.66 g/t Au (maiden reserve)
+Goldfield,growth_capex_usd_m|start_year|throughput_mtpa,estimate,Development schedule and capex are analyst estimates pending a construction decision
+Caraiba,reserve_mt|cu_grade_pct,verified,Dec 2024 P&P: UG 30.9 Mt @ 1.38% + OP 42.2 Mt @ 0.54% = 73.1 Mt @ 0.90% Cu
+Caraiba,depleted_mt,estimate,2025 processed 3.66 Mt (verified); 2026 assumed ~3.9 Mt; 2025 depletion netted against grade conservatism
+Caraiba,opex_usd_t|tcrc_usd_lb,calibrated,Set so C1 lands near the US$2.30–2.50/lb 2026 guidance
+Caraiba,sustaining_usd_m,calibrated,Set so AISC lands near US$3.25/lb (C1 plus sustaining capex and royalties)
+Tucuma,reserve_mt|cu_grade_pct,verified,Sep 2021 P&P 43.1 Mt @ 0.83% Cu (pre-production)
+Tucuma,depleted_mt,estimate,2024–2026 ore processed (2025 verified at 1.81 Mt)
+Tucuma,opex_usd_t,calibrated,Set so C1 lands near the US$1.95–2.15/lb 2026 guidance
+Tucuma,expansion_mtpa|sustaining_usd_m,estimate,4.4 Mtpa from 2027 reflects plant throughput upgrades due Q4 2026 (ERO-Q2-2026); sustaining capex is an analyst estimate
+Xavantina,reserve_mt|au_gpt,estimate,Back-solved from 2025 production (172 kt processed; 37.3 koz) and 40–50 koz/yr guidance; replace with the 2025 reserve update table
+Xavantina,opex_usd_t|sustaining_usd_m,calibrated,"Set so AISC lands in the revised US$2,200–2,700/oz guidance range"

@@ -1,0 +1,6 @@
+key,value,unit,note
+valuation_date,2027-01-01,date,NAV cash flows start 1 Jan 2027; mid-year discounting
+first_year,2027,year,First modelled year
+last_year,2050,year,Last modelled year (Mount Milligan reserve life ends ~2045)
+ga_capitalisation_years,10,years,Years of corporate G&A capitalised in NAV
+ga_discount_rate,0.05,rate,Discount rate for capitalised G&A

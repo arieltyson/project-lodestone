@@ -1,0 +1,7 @@
+asset,discount_rate,rationale
+MtMilligan,0.065,"Blended: roughly 50/50 gold/copper revenue after the Royal Gold stream, midway between 5% gold and 8% copper conventions"
+Oksut,0.05,Gold heap leach; sell-side gold convention (5% real)
+Goldfield,0.05,Gold heap leach development in Nevada; 5% real gold convention
+Caraiba,0.08,Copper concentrator; sell-side copper convention (8% real)
+Tucuma,0.08,Copper concentrator; sell-side copper convention (8% real)
+Xavantina,0.05,Underground gold; 5% real gold convention

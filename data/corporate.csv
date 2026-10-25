@@ -1,0 +1,3 @@
+company,ticker,name,ga_usd_m,other_assets_usd_m,other_assets_note,hedge_mtm_usd_m,dna_2027_usd_m,dna_2028_usd_m,interest_rate,book_tax_rate,status
+CG,CG.TO,Centerra Gold,50,200,"Molybdenum business (Langeloth, Thompson Creek), Kemess and exploration",0,190,200,0.060,0.28,"G&A, other assets and D&A are analyst estimates from MD&A disclosure ranges"
+ERO,ERO.TO,Ero Copper,40,100,"Furnas earn-in and regional exploration",0,175,180,0.065,0.20,"G&A, other assets and D&A are analyst estimates; interest at the 6.5% senior notes coupon"
