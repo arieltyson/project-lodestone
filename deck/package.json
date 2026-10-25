@@ -1,0 +1,11 @@
+{
+  "name": "lodestone-deck",
+  "private": true,
+  "description": "Builds the Project Lodestone pitch book from model_outputs.json",
+  "scripts": {
+    "build": "node build_deck.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "3.12.0"
+  }
+}
