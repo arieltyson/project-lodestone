@@ -1,0 +1,13 @@
+ticker,name,role,primary_metal,hq_jurisdiction,in_screen
+CG.TO,Centerra Gold,acquirer,gold-copper,Canada,true
+ERO.TO,Ero Copper,target,copper-gold,Brazil,true
+CS.TO,Capstone Copper,peer,copper,Chile/US/Mexico,true
+TXG.TO,Torex Gold,peer,gold-copper,Mexico,true
+OGC.TO,OceanaGold,peer,gold-copper,Philippines/NZ/US,true
+SSRM.TO,SSR Mining,peer,gold,US/Turkey/Argentina,true
+HBM.TO,Hudbay Minerals,peer,copper-gold,Peru/Canada/US,false
+LUN.TO,Lundin Mining,peer,copper,Chile/Brazil/US,false
+ELD.TO,Eldorado Gold,peer,gold,Turkey/Canada/Greece,false
+DPM.TO,DPM Metals,peer,gold-copper,Bulgaria/Serbia,false
+IMG.TO,IAMGOLD,peer,gold,Canada/Burkina Faso,false
+EQX.TO,Equinox Gold,peer,gold,Canada/US/Brazil,false
